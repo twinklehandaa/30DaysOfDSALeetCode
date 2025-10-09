@@ -15,4 +15,4 @@ class Solution {
 // Subtract 1 → 15
 // Subtract 3 → 12
 // Subtract 5 → 7
-// Subtract 7 → 0 ✅ (Perfect square)
+// Subtract 7 → 0 ✅ 
