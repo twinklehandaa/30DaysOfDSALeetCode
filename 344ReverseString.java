@@ -13,7 +13,7 @@ class Solution {
         System.out.println(s);
     }
 }
-// Example:
 
+// Example:
 // Input: s = ["H","a","n","n","a","h"]
 // Output: ["h","a","n","n","a","H"]
