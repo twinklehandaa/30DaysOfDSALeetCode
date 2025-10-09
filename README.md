@@ -1,7 +1,7 @@
 # 🧩 30 Days of LeetCode
 
 Welcome to my **#30DaysOfLeetCode** challenge!  
-I’m solving **one LeetCode problem every day** to sharpen my problem-solving skills and strengthen my understanding of **Data Structures & Algorithms** using **Java** (and sometimes SQL 💾).
+I’m solving **atleast one LeetCode problem every day** to sharpen my problem-solving skills and strengthen my understanding of **Data Structures & Algorithms** using **Java** (and sometimes SQL 💾).
 
 ---
 
