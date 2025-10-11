@@ -62,12 +62,6 @@ I’m solving **one LeetCode problem every day** to strengthen my DSA concepts, 
 
 ---
 
-## 🌱 Week 2 Focus (Ongoing)
 
-- Moving into **stacks, queues, and linked lists**  
-- Emphasis on **parsing, sequence validation, and pointer manipulation**  
-- Next goal: start exploring **recursion and backtracking** problems
-
----
 
 
