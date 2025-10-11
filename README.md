@@ -1,7 +1,7 @@
 # 🧩 30 Days of LeetCode
 
 Welcome to my **#30DaysOfLeetCode** challenge!  
-I’m solving **atleast one LeetCode problem every day** to sharpen my problem-solving skills and strengthen my understanding of **Data Structures & Algorithms** using **Java** (and sometimes SQL 💾).
+I’m solving **one LeetCode problem every day** to strengthen my DSA concepts, problem-solving ability, and coding consistency using **Java** (and SQL 💾).
 
 ---
 
@@ -22,6 +22,12 @@ I’m solving **atleast one LeetCode problem every day** to sharpen my problem-s
 | 9 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz-multithreaded/) | Concurrency | Medium | Java | [`412FizzBuzz.java`](./412FizzBuzz.java) |
 | 9 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Trees | Easy | Java | [`589NaryTreePreorderTraversal.java`](./589NaryTreePreorderTraversal.java) |
 | 9 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Trees | Easy | Java | [`590NaryTreePostorderTraversal.java`](./590NaryTreePostorderTraversal.java) |
+| 10 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Stack / Expression Parsing | Hard | Java | [`224BasicCalculator.java`](./224BasicCalculator.java) |
+| 10 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Stack / Greedy | Medium | Java | [`678ValidParenthesisString.java`](./678ValidParenthesisString.java) |
+| 10 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Stack | Medium | Java | [`946ValidateStackSequences.java`](./946ValidateStackSequences.java) |
+| 11 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Stack / Queue | Easy | Java | [`232ImplementQueueUsingStacks.java`](./232ImplementQueueUsingStacks.java) |
+| 11 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | Java | [`2AddTwoNumbers.java`](./2AddTwoNumbers.java) |
+| 11 | [Partition List](https://leetcode.com/problems/partition-list/) | Linked List | Medium | Java | [`86PartitionList.java`](./86PartitionList.java) |
 
 ---
 
@@ -34,16 +40,34 @@ I’m solving **atleast one LeetCode problem every day** to sharpen my problem-s
 
 ## 🎯 Goals
 
-- Maintain **consistency** through daily problem-solving  
-- Improve **time & space complexity** analysis  
-- Strengthen **core DSA concepts**  
-- Build a **strong portfolio** for technical interviews  
+- Maintain **daily consistency**
+- Improve **time and space complexity** understanding  
+- Strengthen **core DSA patterns** (arrays, stacks, trees, linked lists)  
+- Prepare for **technical interviews** through gradual progression  
 
 ---
 
 ## 📈 Progress
 
-✅ Completed: **9 / 30 days**  
-🕒 In Progress: **21 days to go!**
+✅ Completed: **11 / 30 days**  
+🕒 In Progress: **19 days to go!**
 
 ---
+
+## 🌟 Week 1 Summary
+
+- Focused on **string manipulation, arrays**, and **math-based** problems  
+- Learned key concepts like two-pointer technique and recursion  
+- Gained confidence in handling **edge cases and input validation**
+
+---
+
+## 🌱 Week 2 Focus (Ongoing)
+
+- Moving into **stacks, queues, and linked lists**  
+- Emphasis on **parsing, sequence validation, and pointer manipulation**  
+- Next goal: start exploring **recursion and backtracking** problems
+
+---
+
+
