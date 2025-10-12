@@ -31,7 +31,7 @@ I’m solving **atleast one LeetCode problem every day** to strengthen my **prob
 | 12 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Trees | Easy | Java | [`day12/SymmetricTree.java`](./day12/SymmetricTree.java) |
 | 12 | [Student Attendance I](https://leetcode.com/problems/student-attendance-i/) | SQL | Easy | SQL | [`day12/StudentAttendance1.sql`](./day12/StudentAttendance1.sql) |
 | 12 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | Easy | Java | [`day12/SearchInsertPosition.java`](./day12/SearchInsertPosition.java) |
-| 12 | [Convert the Temperature]([https://leetcode.com/problems/search-insert-position/](https://leetcode.com/problems/convert-the-temperature/) | Arrays | Easy | Java | [`day12/ConvertTheTemperature.java`](./day12/ConvertTheTemperature.java) |
+| 12 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Arrays | Easy | Java | [`day12/ConvertTheTemperature.java`](./day12/ConvertTheTemperature.java) |
 
 ---
 
