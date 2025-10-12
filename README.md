@@ -1,7 +1,7 @@
 # 🧩 30 Days of LeetCode
 
 Welcome to my **#30DaysOfLeetCode** challenge!  
-I’m solving **one LeetCode problem every day** to strengthen my DSA concepts, problem-solving ability, and coding consistency using **Java** (and SQL 💾).
+I’m solving **atleast one LeetCode problem every day** to strengthen my DSA skills and coding consistency using **Java** and **SQL**.
 
 ---
 
@@ -28,6 +28,9 @@ I’m solving **one LeetCode problem every day** to strengthen my DSA concepts, 
 | 11 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Stack / Queue | Easy | Java | [`232ImplementQueueUsingStacks.java`](./232ImplementQueueUsingStacks.java) |
 | 11 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | Java | [`2AddTwoNumbers.java`](./2AddTwoNumbers.java) |
 | 11 | [Partition List](https://leetcode.com/problems/partition-list/) | Linked List | Medium | Java | [`86PartitionList.java`](./86PartitionList.java) |
+| 12 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Trees | Easy | Java | [`101SymmetricTree.java`](./101SymmetricTree.java) |
+| 12 | [Student Attendance I](https://leetcode.com/problems/student-attendance-i/) | SQL | Easy | SQL | [`551StudentAttendance1.sql`](./551StudentAttendance1.sql) |
+| 12 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | Easy | Java | [`35SearchInsertPosition.java`](./35SearchInsertPosition.java) |
 
 ---
 
@@ -42,26 +45,16 @@ I’m solving **one LeetCode problem every day** to strengthen my DSA concepts, 
 
 - Maintain **daily consistency**
 - Improve **time and space complexity** understanding  
-- Strengthen **core DSA patterns** (arrays, stacks, trees, linked lists)  
-- Prepare for **technical interviews** through gradual progression  
+- Strengthen **core DSA patterns** (arrays, stacks, trees, linked lists, binary search)  
+- Prepare for **technical interviews**  
 
 ---
 
 ## 📈 Progress
 
-✅ Completed: **11 / 30 days**  
-🕒 In Progress: **19 days to go!**
+✅ Completed: **12 / 30 days**  
+🕒 In Progress: **18 days to go!**
 
 ---
-
-## 🌟 Week 1 Summary
-
-- Focused on **string manipulation, arrays**, and **math-based** problems  
-- Learned key concepts like two-pointer technique and recursion  
-- Gained confidence in handling **edge cases and input validation**
-
----
-
-
 
 
