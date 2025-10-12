@@ -32,6 +32,10 @@ I’m solving **atleast one LeetCode problem every day** to strengthen my **prob
 | 12 | [Student Attendance I](https://leetcode.com/problems/student-attendance-i/) | SQL | Easy | SQL | [`day12/StudentAttendance1.sql`](./day12/StudentAttendance1.sql) |
 | 12 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | Easy | Java | [`day12/SearchInsertPosition.java`](./day12/SearchInsertPosition.java) |
 | 12 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Arrays | Easy | Java | [`day12/ConvertTheTemperature.java`](./day12/ConvertTheTemperature.java) |
+| 13 | [Array Partition](https://leetcode.com/problems/array-partition-i/) | Arrays | Easy | Java | [`day13/ArrayPartition.java`](./day13/ArrayPartition.java) |
+| 13 | [Classes With At Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | SQL | Easy | SQL | [`day13/ClassesWithAtleast5Students.sql`](./day13/ClassesWithAtleast5Students.sql) |
+| 13 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Arrays / Math | Medium | Java | [`day13/MaximumProductOfThreeNumbers.java`](./day13/MaximumProductOfThreeNumbers.java) |
+| 13 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | SQL | Easy | SQL | [`day13/SwapSalary.sql`](./day13/SwapSalary.sql) |
 
 ---
 
