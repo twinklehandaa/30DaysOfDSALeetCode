@@ -25,6 +25,7 @@ I’m solving **atleast one LeetCode problem every day** to strengthen my **prob
 | 10 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Stack / Expression Parsing | Hard | Java | [`day10/BasicCalculator.java`](./day10/BasicCalculator.java) |
 | 10 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Stack / Greedy | Medium | Java | [`day10/ValidParenthesisString.java`](./day10/ValidParenthesisString.java) |
 | 10 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Stack | Medium | Java | [`day10/ValidateStackSequences.java`](./day10/ValidateStackSequences.java) |
+| 10 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=problem-list-v2&envId=vnbtl4ks) | Arrays | Easy | Java | [`day10/FindWordsContainingCharacter.java`](./day10/FindWordsContainingCharacter.java) |
 | 11 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Stack / Queue | Easy | Java | [`day11/ImplementQueueUsingStacks.java`](./day11/ImplementQueueUsingStacks.java) |
 | 11 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | Java | [`day11/AddTwoNumbers.java`](./day11/AddTwoNumbers.java) |
 | 11 | [Partition List](https://leetcode.com/problems/partition-list/) | Linked List | Medium | Java | [`day11/PartitionList.java`](./day11/PartitionList.java) |
