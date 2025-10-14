@@ -1,7 +1,7 @@
 # 🧩 30 Days of LeetCode
 
 Welcome to my **#30DaysOfLeetCode** challenge!  
-I’m solving **atleast one LeetCode problem every day** to strengthen my **problem-solving skills** and **DSA fundamentals** using **Java** and **SQL**.
+I’m solving **at least one LeetCode problem every day** to strengthen my **problem-solving skills** and **DSA fundamentals** using **Java** and **SQL**.
 
 ---
 
@@ -25,7 +25,7 @@ I’m solving **atleast one LeetCode problem every day** to strengthen my **prob
 | 10 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Stack / Expression Parsing | Hard | Java | [`day10/BasicCalculator.java`](./day10/BasicCalculator.java) |
 | 10 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Stack / Greedy | Medium | Java | [`day10/ValidParenthesisString.java`](./day10/ValidParenthesisString.java) |
 | 10 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Stack | Medium | Java | [`day10/ValidateStackSequences.java`](./day10/ValidateStackSequences.java) |
-| 10 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=problem-list-v2&envId=vnbtl4ks) | Arrays | Easy | Java | [`day10/FindWordsContainingCharacter.java`](./day10/FindWordsContainingCharacter.java) |
+| 10 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | Arrays | Easy | Java | [`day10/FindWordsContainingCharacter.java`](./day10/FindWordsContainingCharacter.java) |
 | 11 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Stack / Queue | Easy | Java | [`day11/ImplementQueueUsingStacks.java`](./day11/ImplementQueueUsingStacks.java) |
 | 11 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | Medium | Java | [`day11/AddTwoNumbers.java`](./day11/AddTwoNumbers.java) |
 | 11 | [Partition List](https://leetcode.com/problems/partition-list/) | Linked List | Medium | Java | [`day11/PartitionList.java`](./day11/PartitionList.java) |
@@ -38,6 +38,10 @@ I’m solving **atleast one LeetCode problem every day** to strengthen my **prob
 | 13 | [Classes With At Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | SQL | Easy | SQL | [`day13/ClassesWithAtleast5Students.sql`](./day13/ClassesWithAtleast5Students.sql) |
 | 13 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Arrays / Math | Medium | Java | [`day13/MaximumProductOfThreeNumbers.java`](./day13/MaximumProductOfThreeNumbers.java) |
 | 13 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | SQL | Easy | SQL | [`day13/SwapSalary.sql`](./day13/SwapSalary.sql) |
+| 14 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Linked List | Medium | Java | [`day14/DeleteNodeInALinkedList.java`](./day14/DeleteNodeInALinkedList.java) |
+| 14 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings | Medium | Java | [`day14/ReverseWordsInAString.java`](./day14/ReverseWordsInAString.java) |
+| 14 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Arrays | Easy | Java | [`day14/RichestCustomerWealth.java`](./day14/RichestCustomerWealth.java) |
+| 14 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Matrix / In-place Rotation | Medium | Java | [`day14/RotateImage.java`](./day14/RotateImage.java) |
 
 ---
 
@@ -59,8 +63,8 @@ I’m solving **atleast one LeetCode problem every day** to strengthen my **prob
 
 ## 📈 Progress
 
-✅ Completed: **12 / 30 days**  
-🕒 Remaining: **18 days**
+✅ Completed: **14 / 30 days**  
+🕒 Remaining: **16 days**
 
 ---
 
