@@ -42,6 +42,21 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 | 14 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Strings | Medium | Java | [`day14/ReverseWordsInAString.java`](./day14/ReverseWordsInAString.java) |
 | 14 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Arrays | Easy | Java | [`day14/RichestCustomerWealth.java`](./day14/RichestCustomerWealth.java) |
 | 14 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Matrix / In-place Rotation | Medium | Java | [`day14/RotateImage.java`](./day14/RotateImage.java) |
+| 15 | [Add Digits](https://leetcode.com/problems/add-digits/) | Math / Digital Root | Easy | Java | [`day15/AddDigits.java`](./day15/AddDigits.java) |
+| 15 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | Easy | Java | [`day15/BinarySearch.java`](./day15/BinarySearch.java) |
+| 15 | [Missing Number](https://leetcode.com/problems/missing-number/) | Arrays / Math | Easy | Java | [`day15/MissingNumber.java`](./day15/MissingNumber.java) |
+| 15 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Trees / BST | Easy | Java | [`day15/SearchInABinarySearchTree.java`](./day15/SearchInABinarySearchTree.java) |
+| 15 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings / HashMap | Easy | Java | [`day15/ValidAnagram.java`](./day15/ValidAnagram.java) |
+| 16 | [Big Countries](https://leetcode.com/problems/big-countries/) | SQL | Easy | SQL | [`day16/BigCountries.sql`](./day16/BigCountries.sql) |
+| 16 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Trees / BST | Medium | Java | [`day16/DeleteNodeInBST.java`](./day16/DeleteNodeInBST.java) |
+| 16 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Binary Search | Medium | Java | [`day16/FindPeakElement.java`](./day16/FindPeakElement.java) |
+| 16 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Arrays | Easy | Java | [`day16/MaxConsecutiveOnes.java`](./day16/MaxConsecutiveOnes.java) |
+| 16 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Strings | Easy | Java | [`day16/ReverseWordsInAStringIII.java`](./day16/ReverseWordsInAStringIII.java) |
+| 17 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Linked List | Medium | Java | [`day17/AddTwoNumbersII.java`](./day17/AddTwoNumbersII.java) |
+| 17 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Arrays | Medium | Java | [`day17/FindAllDuplicatesInAnArray.java`](./day17/FindAllDuplicatesInAnArray.java) |
+| 17 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Strings / HashMap | Easy | Java | [`day17/FindTheDifference.java`](./day17/FindTheDifference.java) |
+| 17 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays / Two Pointers | Medium | Java | [`day17/SortColors.java`](./day17/SortColors.java) |
+| 17 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Matrix | Easy | Java | [`day17/TransposeMatrix.java`](./day17/TransposeMatrix.java) |
 
 ---
 
@@ -63,8 +78,7 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 
 ## 📈 Progress
 
-✅ Completed: **14 / 30 days**  
-🕒 Remaining: **16 days**
+✅ Completed: **17 / 30 days**  
+🕒 Remaining: **13 days**
 
 ---
-
