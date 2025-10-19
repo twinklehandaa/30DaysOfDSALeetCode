@@ -57,6 +57,13 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 | 17 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Strings / HashMap | Easy | Java | [`day17/FindTheDifference.java`](./day17/FindTheDifference.java) |
 | 17 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Arrays / Two Pointers | Medium | Java | [`day17/SortColors.java`](./day17/SortColors.java) |
 | 17 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Matrix | Easy | Java | [`day17/TransposeMatrix.java`](./day17/TransposeMatrix.java) |
+| 18 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/description/) | Array / Math | Easy | Java | [`day18/FindClosestPerson.java`](./day18/FindClosestPerson.java) |
+| 18 | [Power of Three](https://leetcode.com/problems/power-of-three/) | Math / Recursion | Easy | Java | [`day18/PowerOfThree.java`](./day18/PowerOfThree.java) |
+| 19 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Tree / BFS | Medium | Java | [`day19/BinaryTreeLevelOrderTraversal.java`](./day19/BinaryTreeLevelOrderTraversal.java) |
+| 19 | [Jump Game](https://leetcode.com/problems/jump-game/) | Greedy / DP | Medium | Java | [`day19/JumpGame.java`](./day19/JumpGame.java) |
+| 19 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List / Two Pointers | Easy | Java | [`day19/LinkedListCycle.java`](./day19/LinkedListCycle.java) |
+| 19 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math / Overflow Handling | Medium | Java | [`day19/ReverseInteger.java`](./day19/ReverseInteger.java) |
+| 19 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search / Math | Easy | Java | [`day19/Sqrt(x).java`](./day19/Sqrt(x).java) |
 
 ---
 
@@ -78,7 +85,5 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 
 ## 📈 Progress
 
-✅ Completed: **17 / 30 days**  
-🕒 Remaining: **13 days**
-
----
+✅ Completed: **19 / 30 days**  
+🕒 Remaining: **11 days**
