@@ -63,7 +63,7 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 | 19 | [Jump Game](https://leetcode.com/problems/jump-game/) | Greedy / DP | Medium | Java | [`day19/JumpGame.java`](./day19/JumpGame.java) |
 | 19 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List / Two Pointers | Easy | Java | [`day19/LinkedListCycle.java`](./day19/LinkedListCycle.java) |
 | 19 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math / Overflow Handling | Medium | Java | [`day19/ReverseInteger.java`](./day19/ReverseInteger.java) |
-| 19 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search / Math | Easy | Java | [`day19/Sqrt(x).java`](./day19/Sqrtx.java) |
+| 19 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search / Math | Easy | Java | [`day19/Sqrt(x).java`](./day19/Sqrt(x).java) |
 | 20 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Simulation / Math | Easy | Java | [`day20/FinalValueOfVariableAfterPerformingOperations.java`](./day20/FinalValueOfVariableAfterPerformingOperations.java) |
 | 21 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | SQL | Easy | SQL | [`day21/CombineTwoTables.sql`](./day21/CombineTwoTables.sql) |
 | 22 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Trees / Stack | Medium | Java | [`day22/BinarySearchTreeIterator.java`](./day22/BinarySearchTreeIterator.java) |
