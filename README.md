@@ -5,7 +5,16 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 
 ---
 
-## 🗓️ Challenge Progress
+
+## 📈 Progress
+
+✅ Completed: **23 / 30 days**  
+🕒 Remaining: **7 days**
+
+---
+
+## 🗓️ Challenge Progress Log
+> _Each day brings a new challenge, a new bug, and a slightly less chaotic brain._
 
 | Day | Problem | Topic | Difficulty | Language | File / Folder |
 |-----|---------|-------|------------|---------|---------------|
@@ -94,8 +103,3 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 - Prepare for **technical interviews**  
 
 
-
-## 📈 Progress
-
-✅ Completed: **23 / 30 days**  
-🕒 Remaining: **7 days**
