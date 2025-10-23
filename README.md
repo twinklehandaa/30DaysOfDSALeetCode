@@ -63,7 +63,19 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 | 19 | [Jump Game](https://leetcode.com/problems/jump-game/) | Greedy / DP | Medium | Java | [`day19/JumpGame.java`](./day19/JumpGame.java) |
 | 19 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Linked List / Two Pointers | Easy | Java | [`day19/LinkedListCycle.java`](./day19/LinkedListCycle.java) |
 | 19 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Math / Overflow Handling | Medium | Java | [`day19/ReverseInteger.java`](./day19/ReverseInteger.java) |
-| 19 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search / Math | Easy | Java | [`day19/Sqrt(x).java`](./day19/Sqrt(x).java) |
+| 19 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Binary Search / Math | Easy | Java | [`day19/Sqrt(x).java`](./day19/Sqrtx.java) |
+| 20 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Simulation / Math | Easy | Java | [`day20/FinalValueOfVariableAfterPerformingOperations.java`](./day20/FinalValueOfVariableAfterPerformingOperations.java) |
+| 21 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | SQL | Easy | SQL | [`day21/CombineTwoTables.sql`](./day21/CombineTwoTables.sql) |
+| 22 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Trees / Stack | Medium | Java | [`day22/BinarySearchTreeIterator.java`](./day22/BinarySearchTreeIterator.java) |
+| 22 | [Gas Station](https://leetcode.com/problems/gas-station/) | Greedy | Medium | Java | [`day22/GasStation.java`](./day22/GasStation.java) |
+| 22 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | Sorting / Binary Search | Medium | Java | [`day22/H-IndexII.java`](./day22/H-IndexII.java) |
+| 22 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Linked List | Easy | Java | [`day22/IntersectionOfTwoLinkedList.java`](./day22/IntersectionOfTwoLinkedList.java) |
+| 22 | [Majority Element](https://leetcode.com/problems/majority-element/) | Arrays | Easy | Java | [`day22/MajorityElement.java`](./day22/MajorityElement.java) |
+| 23 | [Check If Digits Are Equal in String After Operations](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations/) | Strings / Simulation | Medium | Java | [`day23/CheckIfDigitsAreEqualInStringAfterOperations.java`](./day23/CheckIfDigitsAreEqualInStringAfterOperations.java) |
+| 23 | [H-Index](https://leetcode.com/problems/h-index/) | Arrays / Sorting | Medium | Java | [`day23/H-Index.java`](./day23/H-Index.java) |
+| 23 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Math / Bitwise | Easy | Java | [`day23/PowerOfFour.java`](./day23/PowerOfFour.java) |
+| 23 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Math / Bitwise | Easy | Java | [`day23/PowerOfTwo.java`](./day23/PowerOfTwo.java) |
+| 23 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Two Pointers / Strings | Easy | Java | [`day23/ReverseVowelsOfAString.java`](./day23/ReverseVowelsOfAString.java) |
 
 ---
 
@@ -81,9 +93,9 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 - Improve **core DSA patterns** (arrays, strings, stacks, trees, linked lists, binary search)
 - Prepare for **technical interviews**  
 
----
+
 
 ## 📈 Progress
 
-✅ Completed: **19 / 30 days**  
-🕒 Remaining: **11 days**
+✅ Completed: **23 / 30 days**  
+🕒 Remaining: **7 days**
