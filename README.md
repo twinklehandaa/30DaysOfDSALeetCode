@@ -5,11 +5,10 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 
 ---
 
-
 ## 📈 Progress
 
-✅ Completed: **28 / 30 days**  
-🕒 Remaining: **2 days**
+✅ Completed: **29 / 30 days**  
+🕒 Remaining: **1 day**
 
 ---
 
@@ -110,6 +109,11 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 | 28 | [Happy Number](https://leetcode.com/problems/happy-number/) | Math / HashSet | Easy | Java | [day28/HappyNumber.java](./day28/HappyNumber.java) |
 | 28 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | Arrays / Greedy | Medium | Java | [day28/MakeArrayElementsEqualToZero.java](./day28/MakeArrayElementsEqualToZero.java) |
 | 28 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | OOP / Design | Medium | Java | [day28/SimpleBankSystem.java](./day28/SimpleBankSystem.java) |
+| **29** | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | Bit Manipulation | Medium | Java | [`day29/FindTheXOROfNumbersWhichAppearTwice.java`](./day29/FindTheXOROfNumbersWhichAppearTwice.java) |
+| 29 | [Path Sum](https://leetcode.com/problems/path-sum/) | Trees / DFS | Easy | Java | [`day29/PathSum.java`](./day29/PathSum.java) |
+| 29 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Bit Manipulation | Medium | Java | [`day29/SingleNumberII.java`](./day29/SingleNumberII.java) |
+| 29 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Bit Manipulation | Medium | Java | [`day29/SingleNumberIII.java`](./day29/SingleNumberIII.java) |
+| 29 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Bit Manipulation / Math | Easy | Java | [`day29/SmallestNumberWithAllSetBits.java`](./day29/SmallestNumberWithAllSetBits.java) |
 
 ---
 
