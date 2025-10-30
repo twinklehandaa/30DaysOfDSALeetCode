@@ -7,7 +7,7 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 
 ## 📈 Progress
 
-✅ Completed: **29 / 30 days**  
+✅ Completed: **30 / 31 days**  
 🕒 Remaining: **1 day**
 
 ---
@@ -114,6 +114,12 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 | 29 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | Bit Manipulation | Medium | Java | [`day29/SingleNumberII.java`](./day29/SingleNumberII.java) |
 | 29 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | Bit Manipulation | Medium | Java | [`day29/SingleNumberIII.java`](./day29/SingleNumberIII.java) |
 | 29 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Bit Manipulation / Math | Easy | Java | [`day29/SmallestNumberWithAllSetBits.java`](./day29/SmallestNumberWithAllSetBits.java) |
+| **30** | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays / HashSet | Easy | Java | [`day29/ContainsDuplicate.java`](./day29/ContainsDuplicate.java) |
+| 30 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Heap / Sorting | Medium | Java | [`day29/KthLargestElementInAnArray.java`](./day29/KthLargestElementInAnArray.java) |
+| 30 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Sorting / Buckets | Hard | Java | [`day29/MaximumGap.java`](./day29/MaximumGap.java) |
+| 30 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Greedy / Arrays | Hard | Java | [`day29/MinimumNumberOfIncrementsOnSubArraysToFormATargetArray.java`](./day29/MinimumNumberOfIncrementsOnSubArraysToFormATargetArray.java) |
+| 30 | [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | DP / Greedy | Medium | Java | [`day29/TakingMaximumEnergyFromTheMysticDungeon.java`](./day29/TakingMaximumEnergyFromTheMysticDungeon.java) |
+
 
 ---
 
@@ -130,5 +136,3 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 - Strengthen **time and space complexity analysis**
 - Improve **core DSA patterns** (arrays, strings, stacks, trees, linked lists, binary search)
 - Prepare for **technical interviews**  
-
-
