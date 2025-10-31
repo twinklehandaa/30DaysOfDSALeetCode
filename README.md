@@ -7,8 +7,8 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 
 ## 📈 Progress
 
-✅ Completed: **30 / 31 days**  
-🕒 Remaining: **1 day**
+✅ Completed: **31 / 31 days**  
+🎉 Challenge Completed!
 
 ---
 
@@ -119,7 +119,12 @@ I’m solving **at least one LeetCode problem every day** to strengthen my **pro
 | 30 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Sorting / Buckets | Hard | Java | [`day29/MaximumGap.java`](./day29/MaximumGap.java) |
 | 30 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Greedy / Arrays | Hard | Java | [`day29/MinimumNumberOfIncrementsOnSubArraysToFormATargetArray.java`](./day29/MinimumNumberOfIncrementsOnSubArraysToFormATargetArray.java) |
 | 30 | [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | DP / Greedy | Medium | Java | [`day29/TakingMaximumEnergyFromTheMysticDungeon.java`](./day29/TakingMaximumEnergyFromTheMysticDungeon.java) |
-
+| **31** | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | SQL / Aggregation | Easy | SQL | [`day31/BankAccountSummaryII.sql`](./day31/BankAccountSummaryII.sql) |
+| 31 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | SQL / Group By | Easy | SQL | [`day31/CustomerPlacingTheLargestNumberOfOrders.sql`](./day31/CustomerPlacingTheLargestNumberOfOrders.sql) |
+| 31 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | SQL / Self Join | Easy | SQL | [`day31/FindCustomerReferee.sql`](./day31/FindCustomerReferee.sql) |
+| 31 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | HashMap / Arrays | Easy | Java | [`day31/MinimumIndexSumOfTwoLists.java`](./day31/MinimumIndexSumOfTwoLists.java) |
+| 31 | [Number Complement](https://leetcode.com/problems/number-complement/) | Bit Manipulation | Easy | Java | [`day31/NumberComplement.java`](./day31/NumberComplement.java) |
+| 31 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | Arrays / Geometry | Easy | Java | [`day31/RangeAdditionII.java`](./day31/RangeAdditionII.java) |
 
 ---
 
